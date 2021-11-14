@@ -1,0 +1,1 @@
+curl -X GET "https://developer.nps.gov/api/v1/activities?id=FEDA3DF8-B871-4C1A-BB96-32823860B174&q=Arts%20and%20Culture&limit=26&start=3&api_key=gg1K8hy91uGAGNFRh2nlI78srNZi2wHf93XNosBi" -H "accept: application/json"
